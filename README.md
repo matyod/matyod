@@ -72,7 +72,7 @@
 <h3 align="center">Stats 📊</h3>
 <div align="center">
 
-[wakatime](https://wakatime.com/badge/user/018d3aef-9bb9-4b77-9e7d-2bbcd4a6389d.svg)
+![wakatime](https://wakatime.com/badge/user/018d3aef-9bb9-4b77-9e7d-2bbcd4a6389d.svg)
 
 </div>
 
