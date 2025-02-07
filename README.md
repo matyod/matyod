@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&&height=300&section=header&text=Firdaus%20Razali&fontColor=d6ace6&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&&height=150&section=header&text=Hi%21%20I%27m%20Firdaus%20Razali&fontColor=d6ace6&fontSize=40)
 
 </div>
 <!-- <h1 align="center">Firdaus Razali, Student of Bachelor of IT in Software Engineering</h1> -->
@@ -12,12 +12,12 @@
 
 <div display="flex">
   <div align="center">
-    <img src="https://media1.tenor.com/m/cotOa0s4tYwAAAAd/before-after.gif" alt="Funny gif">
+    <img height=400 src="https://media1.tenor.com/m/cotOa0s4tYwAAAAd/before-after.gif" alt="Funny gif">
   </div>
 
   <div align="center">
-    <p>Funny, right? Some of my hair and mustache turned white before I even hit 30! 😆</p>
-    <p>My friends told me my face looks 10 years older after pursuing this degree in Software Engineering! 😜</p>
+    <p>Squid Game gif above is funny, right? Some of my hair and mustache turned white before I even hit 30! 😆</p>
+    <p>My friends told me my face looks 10 years older after pursuing this degree in Software Engineering! 😆</p>
     <p>I am a student pursuing a Bachelor of Information Technology in Software Engineering at UNITAR International University.</p>
     <p>My goal is to become a proficient software engineer, and I am actively building the skills necessary to achieve that ambition.</p>
     <p>I am currently learning new frameworks and working on <a href="#">personal projects.</a></p>
@@ -77,20 +77,26 @@
 </div>
 
 <div align="center">
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-![Firdaus Razali's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=matyod&theme=radical&hide=stars&show_icons=true)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=matyod&layout=compact&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true" alt="Firdaus Razali's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyod&theme=radical&hide_border=true&custom_title=Top%20Language%20%28Public%20repo%29&text_bold=true" alt="Firdaus Razali's Top Language in Public Repository" />
+  </a>
 </div>
 
 <div align="center">
+  
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matyod&theme=radical&custom_title=Top%20Language%20%28WakaTime%20report%29%&display_format=percent&hide=python,other)
+</div>
+
+<!--<div align="center">-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</div>
+<!--</div>-->
 
 <!--  -->
 
