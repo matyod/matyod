@@ -50,10 +50,12 @@
   <!-- react,docker,nginx,postman,cypress,playwright,selenium -->
 </div>
 
-<!-- <h2 align="center">Where I deploy my what? icon?</h2>
+<!-- 
+<h3 align="center">Where I Deploy My Projects 🚀</h3>
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=render,heroku,digitalocean,githubpages,netlify,vercel&perline=3&titles=true" />
-</div> -->
+</div> 
+-->
 
 <h3 align="center">Operating Systems 🌐</h3>
 <div align="center">
@@ -64,8 +66,6 @@
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&perline=5&titles=true" />
 </div>
-
-<!--  -->
 
 <hr>
 
@@ -98,10 +98,7 @@
 
 <!--</div>-->
 
-<!--  -->
-
 <hr>
-
 
 <h3 align="center">Spotify Currently Playing 🎧</h3>
 <div align="center">
@@ -115,20 +112,22 @@
 <div align="center">
 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Epic
-Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![YouTube
-Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 </div>
 
-  <!--  -->
+<!-- 
+<hr> 
+-->
 
-<!-- <h3 align="center">Buy Me a Coffee ☕</h3>
+<!-- 
+<h3 align="center">Buy Me a Coffee ☕</h3>
 <div align="center">
 <p>Buy me a coffee!</p>
+
 https://ko-fi.com/
 
 ![Ko-Fi](https://img.shields.io/badge/Buy%20Me%20a%20Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
@@ -138,4 +137,5 @@ or
 https://buymeacoffee.com/
 
 ![BuyMeACoffee](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-</div> -->
+</div> 
+-->
