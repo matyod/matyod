@@ -18,7 +18,7 @@
   <div align="center">
     <p>Squid Game gif above is funny, right? Some of my hair and mustache turned white before I even hit 30! 😆</p>
     <p>My friends told me my face looks 10 years older after pursuing this degree in Software Engineering! 😆</p>
-    <p>I am a student pursuing a Bachelor of Information Technology in Software Engineering at UNITAR International University.</p>
+    <p>Hi! So, I am a student pursuing a Bachelor of Information Technology in Software Engineering at UNITAR International University.</p>
     <p>My goal is to become a proficient software engineer, and I am actively building the skills necessary to achieve that ambition.</p>
     <p>I am currently learning new frameworks and working on <a href="#">personal projects.</a></p>
     <p>Feel free to contact me via:</p>
