@@ -1,7 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&&height=150&section=header&text=Hi%21%20I%27m%20Firdaus%20Razali&fontColor=d6ace6&fontSize=40)
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Hi%21%20I%27m%20Firdaus%20Razali&fontSize=40)
+<!-- fontColor=d6ace6& -->
 </div>
 <!-- <h1 align="center">Firdaus Razali, Student of Bachelor of IT in Software Engineering</h1> -->
 
@@ -16,11 +16,13 @@
   </div>
 
   <div align="center">
-    <p>Squid Game gif above is funny, right? Some of my hair and mustache turned white before I even hit 30! 😆</p>
-    <p>My friends told me my face looks 10 years older after pursuing this degree in Software Engineering! 😆</p>
-    <p>Hi! So, I am a student pursuing a Bachelor of Information Technology in Software Engineering at UNITAR International University.</p>
-    <p>My goal is to become a proficient software engineer, and I am actively building the skills necessary to achieve that ambition.</p>
-    <p>I am currently learning new frameworks and working on <a href="#">personal projects.</a></p>
+    <p>Squid Game gif above is hilarious, right? Some of my hair and mustache turned white <b>before</b> I even hit 30! 😆</p>
+    <p>My friends say I look much older after diving into this Software Engineering degree! 😆</p>
+    <h3>Hi!</h3>
+    <p>So, I'm currently a student pursuing a <b>Bachelor of Information Technology in Software Engineering</b> at <a href="https://www.unitar.my">UNITAR International University</a>.</p>
+    <p>My goal is to become a software engineer (or a full-stack developer — same thing, right?).</p>
+    <p>I'm working hard to build the skills necessary to make that happen.</p>
+    <p>Right now, I'm learning new frameworks and building <a href="#">personal projects.</a> to expand my knowledge and experience.</p>
     <p>Feel free to contact me via:</p>
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadfirdausmohdrazali/)
@@ -47,7 +49,18 @@
 <h3 align="center">Tech Stack 💻</h3>
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,html,css,tailwind,js,vue,mysql,git,github,figma,vscode&perline=6&titles=true" />
-  <!-- react,docker,nginx,postman,cypress,playwright,selenium -->
+  <!-- 
+  webstorm,
+  typescript,javascript,webpack,postman,jira,??trello??,slack
+  react,nextjs,reactnative,storybook,
+  nodejs,expressjs,nestjs,graphql,??websockets??,??restfulapi??,stripe,??paypal??,
+  postgresql,sqlite,typeorm,
+  mongodb,redis,firebase,supabase,
+  ??pgadmin??,dbeaver,
+  aws,docker,kubernetes,nginx,terraform,githubactions,
+  jest,mocha,??chai??,??jasmine??,selenium,cypress,??eslint??,prettier,
+  jwt,
+  docker,nginx,postman,cypress,playwright,selenium -->
 </div>
 
 <!-- 
