@@ -109,10 +109,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 16 mins   ████████████████████████░   95.45 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Markdown   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
