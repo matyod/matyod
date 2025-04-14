@@ -122,13 +122,17 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <hr>
 
+<!--
 <h3 align="center">Spotify Currently Playing 🎧</h3>
 <div align="center">
+-->
 <!-- https://github.com/kittinan/spotify-github-profile -->
 
+<!--
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wfj2zerp4vjqsws2omvbwbds5e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)
 
 </div>
+-->
 
 <h3 align="center">Things I Do When I'm AFK 🏖</h3>
 <div align="center">
