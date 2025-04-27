@@ -11,7 +11,11 @@
  -->
 
 <div display="flex">
+  <div align="right">
+    <p>test</p>
+  </div>
   <div align="center">
+    <p>Click the play ▶ button on the gif below 👇</p>
     <img height=400 src="https://media1.tenor.com/m/cotOa0s4tYwAAAAd/before-after.gif" alt="Funny gif">
   </div>
 
