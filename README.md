@@ -52,7 +52,7 @@
 
 <h3 align="center">Tech Stack 💻</h3>
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,laravel,html,css,tailwind,js,vue,mysql,git,github,figma,vscode&perline=6&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,vue,nodejs,expressjs,python,mysql,postgresql,digitalocean,html,css,tailwind,git,github,figma,vscode&perline=5&titles=true" />
   <!-- 
   webstorm,
   typescript,javascript,webpack,postman,jira,??trello??,slack
@@ -98,15 +98,21 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=matyod&layout=compact&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true" alt="Firdaus Razali's GitHub Stats" />
   </a>
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyod&theme=radical&hide_border=true&custom_title=Top%20Language%20%28Public%20repo%29&text_bold=true" alt="Firdaus Razali's Top Language in Public Repository" />
   </a>
+  -->
 </div>
 
+<!--
 <div align="center">
   
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matyod&theme=radical&custom_title=Top%20Language%20%28WakaTime%20report%29%&display_format=percent&hide=python,other)
 </div>
+-->
+
+<h4 align="center" color="pink">WakaTime < / ></h3>
 
 <!--<div align="center">-->
 
@@ -125,18 +131,6 @@ Markdown      4 mins          ▒░░░░░░░░░░░░░░░�
 <!--</div>-->
 
 <hr>
-
-<!--
-<h3 align="center">Spotify Currently Playing 🎧</h3>
-<div align="center">
--->
-<!-- https://github.com/kittinan/spotify-github-profile -->
-
-<!--
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wfj2zerp4vjqsws2omvbwbds5e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)
-
-</div>
--->
 
 <h3 align="center">Things I Do When I'm AFK 🏖</h3>
 <div align="center">
