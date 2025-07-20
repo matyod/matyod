@@ -22,11 +22,11 @@ jobs:
           # API_BASE_URL: https://wakatime.com/api # optional
           # REPOSITORY: matyod/matyod # optional
           ### content
-          # SHOW_TITLE: true # optional
+          SHOW_TITLE: true # optional
           # SECTION_NAME: waka # optional
           # BLOCKS: -> # optional
           # CODE_LANG: rust # optional
-          # TIME_RANGE: all_time # optional
+          TIME_RANGE: last_30_days # optional
           # LANG_COUNT: 10 # optional
           # SHOW_TIME: true # optional
           # SHOW_TOTAL: true # optional
