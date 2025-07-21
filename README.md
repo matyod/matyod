@@ -112,7 +112,7 @@
 </div>
 -->
 
-<h4 align="center" color="pink">WakaTime < / ></h3>
+<h4 align="center">Weekly Development Breakdown (WakaTime) 📊</h4>
 
 <!--<div align="center">-->
 
