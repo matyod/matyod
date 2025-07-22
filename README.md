@@ -5,15 +5,12 @@
 </div>
 <!-- <h1 align="center">Firdaus Razali, Student of Bachelor of IT in Software Engineering</h1> -->
 
-<!--  -->
+
 <!--
 <h2 align="center">Hello, I'm Firdaus 👋</h2>
- -->
+-->
 
 <div display="flex">
-  <div align="right">
-    <p>test</p>
-  </div>
   <div align="center">
     <p>Click the play ▶ button on the gif below 👇</p>
     <img height=400 src="https://media1.tenor.com/m/cotOa0s4tYwAAAAd/before-after.gif" alt="Funny gif">
@@ -44,12 +41,9 @@
 
 </div>
 
-<!--  -->
-
 <hr>
 
 <!-- https://github.com/LelouchFR/skill-icons -->
-
 <h3 align="center">Tech Stack 💻</h3>
 <div align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js,vue,nodejs,expressjs,python,mysql,postgresql,digitalocean,html,css,tailwind,git,github,figma,vscode&perline=5&titles=true" />
@@ -64,7 +58,8 @@
   aws,docker,kubernetes,nginx,terraform,githubactions,
   jest,mocha,??chai??,??jasmine??,selenium,cypress,??eslint??,prettier,
   jwt,
-  docker,nginx,postman,cypress,playwright,selenium -->
+  docker,nginx,postman,cypress,playwright,selenium
+  -->
 </div>
 
 <!-- 
@@ -90,24 +85,17 @@
 <div align="center">
 
 ![wakatime](https://wakatime.com/badge/user/018d3aef-9bb9-4b77-9e7d-2bbcd4a6389d.svg)
-
 </div>
 
-<div align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=matyod&layout=compact&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true" alt="Firdaus Razali's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=matyod&layout=compact&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=43200"/>
   </a>
-  <!--
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyod&theme=radical&hide_border=true&custom_title=Top%20Language%20%28Public%20repo%29&text_bold=true" alt="Firdaus Razali's Top Language in Public Repository" />
-  </a>
-  -->
 </div>
 
 <!--
 <div align="center">
-  
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matyod&theme=radical&custom_title=Top%20Language%20%28WakaTime%20report%29%&display_format=percent&hide=python,other)
 </div>
 -->
