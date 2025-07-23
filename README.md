@@ -106,7 +106,9 @@
   </a>
 </div>
 
+<!--
 <h4 align="center">Weekly Development Breakdown (WakaTime) 📊</h4>
+-->
 
 <!-- https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
