@@ -90,35 +90,28 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyod&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=radical&hide_border=true&cache_seconds=43200"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=matyod&layout=compact&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=43200"/>
   </a>
 </div>
 
-<!--
 <div align="center">
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=matyod&theme=radical&custom_title=Top%20Language%20%28WakaTime%20report%29%&display_format=percent&hide=python,other)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matyod&hide=json,git%20config,image%20(svg),text,markdown,other&theme=radical&hide_border=true"/>
+  </a>
 </div>
--->
 
 <h4 align="center">Weekly Development Breakdown (WakaTime) 📊</h4>
 
-<!--<div align="center">-->
-
+<!-- https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
 
-```txt
-From: 14 July 2025 - To: 21 July 2025
-
-Python        18 hrs          ██████████████████████▒░░   89.20 %
-JSON          1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-JavaScript    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Image (svg)   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-```
-
 <!--END_SECTION:waka-->
-
-<!--</div>-->
 
 <hr>
 
